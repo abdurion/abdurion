@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently learning Data Science / Data Governance.
 - 👯 I’m looking to collaborate on NLP Arabic Dataset / building chat bots.
 - 💬 Ask me about anything, I'll do my best to help!
 - ⚡ Fun fact: I do write and take photographs in the times I'm not programming/learning.
